@@ -66,7 +66,7 @@ export default function ComingSoon() {
       <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.9 }} className="mb-6">
         {!logoError ? (
           <img
-            src="../logo.png"
+            src="https://res.cloudinary.com/dupvr3imc/image/upload/v1755344849/logo_lq2p7u.png"
             alt="Dropzone Logo"
             //the image is vertical rectangular make it circular like a snooker ball
 
